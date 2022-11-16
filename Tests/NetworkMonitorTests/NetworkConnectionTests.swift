@@ -1,5 +1,5 @@
 import XCTest
-@testable import NetworkConnection
+@testable import NetworkMonitor
 
 final class NetworkMonitorTests: XCTestCase {
 
